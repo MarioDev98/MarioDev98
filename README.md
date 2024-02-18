@@ -1,13 +1,13 @@
 Hola  Mi nombre es Mario Medina 👋
-=================================
+==================================
 
-Desarrollador Web y Consultor en Seguridad
-------------------------------------------
+Desarrollador Web | Consultor en Seguridad | DBA 
+-------------------------------------------------
 
-Entusiasta por el desarrollo web, la automatización, configuraciones en sistemas Linux y amante del café frio.
+Entusiasta por el desarrollo web, la automatización, configuraciones en sistemas Linux, bases de datos y  amante del café frio.
 
 * ✉️  Me puedes contactar por mi email [mariomedinalucero29@gmail.com](mailto:mariomedinalucero29@gmail.com)
-* 🧠  Estoy estudiando Python y Shell Script
+* 🧠  Estoy estudiando seguridad en la nube
 * ⚡  Mis mejores commits son de noche :P
 
 ### Skills
