@@ -1,8 +1,8 @@
 Hola  Mi nombre es Mario Medina 👋
 ==================================
 
-Desarrollador Web | Consultor en Seguridad | DBA 
--------------------------------------------------
+Desarrollador Web | Consultor en Seguridad | DBA ORACLE | SYSADMIN EBS
+-----------------------------------------------------------------------
 
 Entusiasta por el desarrollo web, la automatización, configuraciones en sistemas Linux, bases de datos y  amante del café frio.
 
