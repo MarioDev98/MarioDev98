@@ -1,4 +1,4 @@
-Hola  Mi nombre es Mario Medina 👋
+Hola  mi nombre es Mario Medina 👋
 ==================================
 
 Desarrollador Web | Consultor en Seguridad | DBA ORACLE 
