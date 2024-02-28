@@ -1,10 +1,10 @@
 Hola  Mi nombre es Mario Medina 👋
 ==================================
 
-Desarrollador Web | Consultor en Seguridad | DBA ORACLE | SYSADMIN EBS
------------------------------------------------------------------------
+Desarrollador Web | Consultor en Seguridad | DBA ORACLE 
+---------------------------------------------------------
 
-Entusiasta por el desarrollo web, la automatización, configuraciones en sistemas Linux, bases de datos y  amante del café frio.
+Entusiasta por el desarrollo fullstack, la automatización, configuraciones en sistemas Linux, bases de datos y  amante del café frio.
 
 * ✉️  Me puedes contactar por mi email [mariomedinalucero29@gmail.com](mailto:mariomedinalucero29@gmail.com)
 * 🧠  Estoy estudiando seguridad en la nube
