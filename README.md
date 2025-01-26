@@ -7,7 +7,7 @@ Desarrollador Full Stack | Consultor en Seguridad | DBA Oracle
 Entusiasta por el desarrollo fullstack, la automatización, configuraciones en sistemas Linux, bases de datos y  amante del café frio.
 
 * ✉️  Me puedes contactar por mi email [mariomedinalucero29@gmail.com](mailto:mariomedinalucero29@gmail.com)
-* 🧠  Estoy estudiando seguridad en la nube
+* 🧠  Estoy estudiando seguridad en la nube y docker para automatización
 * ⚡  Mis mejores commits son de noche :P
 
 ### Skills
