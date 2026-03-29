@@ -6,7 +6,7 @@ Oracle DBA | Full Stack Developer | Infraestructura y Seguridad TI
 
 Entusiasta por el desarrollo fullstack, la automatización, configuraciones en sistemas Linux, bases de datos y amante del café frio.
 
-* ✉️ Email: [mariomedinalucero29@gmail.com](mailto:mariomedinalucero29@gmail.com)
+* ✉️ Me puedes contactar por mi email [mariomedinalucero29@gmail.com](mailto:mariomedinalucero29@gmail.com)
 * 💼 LinkedIn: www.linkedin.com/in/mario-isai-medina-lucero-39abb8258
 * 🌐 Blog: https://miblog-mariomedina.netlify.app/
 * 🧠 Actualmente estudiando seguridad en la nube y Docker
